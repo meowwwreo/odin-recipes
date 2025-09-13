@@ -14,3 +14,23 @@ div {
     margin: 10px;
     background-color: rgb(235, 235, 235);
 }
+
+.box.heading-one {
+    margin: 10px 0;
+}
+
+.box.para {
+    margin: 10px 0;
+}
+
+.box.ulist {
+    margin: 10px 0;
+}
+
+.box.list {
+    margin: 10px 0;
+}
+
+li {
+    list-style: none;
+}
