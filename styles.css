@@ -12,12 +12,6 @@ body {
     width: 1063px;
 }
 
-/* Temporary border
-div {
-    border: 1px solid rgb(0, 0, 0);
-} */
-
-/* Temp color */
 .box.parent {
     margin: 10px;
     background-color: #ffffff;
