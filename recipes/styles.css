@@ -12,3 +12,8 @@ body {
     width: 1063px;
     margin: auto;
 }
+
+.box.parent {
+    background-color: #ffffff;
+    margin: 10px;
+}
