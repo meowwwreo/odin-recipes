@@ -6,3 +6,9 @@
     font-family: "Lucida Console", "Courier New", monospace ;
 }
 
+body {
+    background: #eeeeee;
+    height: 1375px;
+    width: 1063px;
+    margin: auto;
+}
