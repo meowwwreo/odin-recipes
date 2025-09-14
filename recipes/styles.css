@@ -15,8 +15,8 @@ body {
     background-color: #ffffff;
     margin: auto;
     height: auto;
-    width: 900px;
-    max-width: 1063px;
+    width: 1080px;
+    max-width: 1080px;
 }
 
 div.h-line {
@@ -29,7 +29,7 @@ div.v-line {
     padding-top: 10px;
 }
 
-h1, h2, p, div.image {
+h1, h2, p, div.image, div.home {
     padding-left: 10px;
 }
 
@@ -38,7 +38,17 @@ div.list {
 }
 
 div.empty {
-    height: 20px;
+    height: 16px;
+}
+
+div.home {
+    text-align: right;
+    padding-right: 20px;
+    padding-top: 10px;
+}
+
+h1 {
+    font-size: 25px;
 }
 
 /* div.image {
