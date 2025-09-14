@@ -28,3 +28,11 @@ div.v-line {
     margin-left: 100px;
     padding-top: 10px;
 }
+
+h1, h2, p, div.image {
+    padding-left: 10px;
+}
+
+div.list {
+    padding-left: 50px;
+}
