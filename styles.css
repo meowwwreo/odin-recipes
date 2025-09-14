@@ -10,6 +10,7 @@ body {
     background: #eeeeee;
     height: 1375px;
     width: 1063px;
+    margin: auto;
 }
 
 .box.parent {
